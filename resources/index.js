@@ -9,5 +9,5 @@ if("geolocation" in navigator) {
         console.log(`Longitude: ${lon}`)
     })
 } else {
-    console.log("geolocation is zxb vcvc not available");
+    console.log("geolocation is not available");
 }SADfg
